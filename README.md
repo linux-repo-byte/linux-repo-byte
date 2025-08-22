@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Bartaula</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-##<p align="left"> <img src="https://komarev.com/ghpvc/?username=linux-repo-byte&label=Profile%20views&color=0e75b6&style=flat" alt="linux-repo-byte" /> </p>
-
-##<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linux-repo-byte" alt="linux-repo-byte" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://bartaulaayush.com.np/](https://bartaulaayush.com.np/)
 
 <h3 align="left">Connect with me:</h3>
@@ -72,17 +68,7 @@
 
 <img src="https://raw.githubusercontent.com/linux-repo-byte/linux-repo-byte/output/snake.svg" alt="Snake animation" />
 
-###
 
-<img src="https://raw.githubusercontent.com/linux-repo-byte/linux-repo-byte/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/linux-repo-byte/linux-repo-byte/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/linux-repo-byte/linux-repo-byte/output/snake.svg" alt="Snake animation" />
 
 ###
  
