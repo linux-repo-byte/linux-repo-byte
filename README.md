@@ -86,5 +86,7 @@
 
 ###
  
+![snake gif](https://github.com/YOUR_USERNAME/linux-repo-byte/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
