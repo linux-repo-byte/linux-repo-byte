@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bartaulaayush.com.np/](https://bartaulaayush.com.np/)
 
-- 💬 Ask me about **C,C#,JAVA,PHP,JAVASCRIPT,MYSQL**
+- 💬 Ask me about **C, C#, JAVA, PHP, JAVASCRIPT, MYSQL**
 
 - 📫 How to reach me **aayush95bartaula@gmail.com**
 
