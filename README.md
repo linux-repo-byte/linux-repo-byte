@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Bartaula</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **React & Redux, Tailwind CSS, Next JS, Node JS**
+- 🌱 I’m currently learning **React & Redux, Tailwind CSS, Next JS, Node JS and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://bartaulaayush.com.np/](https://bartaulaayush.com.np/)
 
