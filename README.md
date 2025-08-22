@@ -49,9 +49,10 @@
 
 ### 🐍 Contribution Graph
 
-<p align="center">
+
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/linux-repo-byte/linux-repo-byte/output/snake.svg" alt="Snake animation" />
-</p>
+</p> !-->
 
 <img src="https://raw.githubusercontent.com/linux-repo-byte/linux-repo-byte/output/snake.svg" alt="Snake animation" />
 
